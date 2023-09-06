@@ -9,7 +9,7 @@ Delve into the wealth of knowledge presented in my Wikipedia page. This comprehe
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![2](https://github.com/SHYAM-001/Wikipedia/assets/103324177/4a2eff1e-173a-4b2f-b2f8-6f6dbed49b21)
 
 
 ## Installation
@@ -22,7 +22,7 @@ Install my-project with `git clone `
    create a folder in the name you needed `your folder name`
 ```
 ```bash
-  git clone https:
+  git clone https://github.com/SHYAM-001/Wikipedia.git
 ```
     
 ## Environment Variables
